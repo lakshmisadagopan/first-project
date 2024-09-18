@@ -1,0 +1,47 @@
+/* .profilepic{
+    width: 75px;
+    height: 75px;
+    border-radius: 50px;
+}
+.mb{
+    margin-bottom: 15px;
+}
+.mr{
+    margin-right: 15px;
+}
+.main{
+    display: flex;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: normal;
+    font-size: 32px;
+}
+.poster{
+    width:29%;
+    padding: 20px 25px;
+    background-color: white;
+    border: 1px solid #f3d1fa;
+    border-radius: 5px;
+    margin:auto;  
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+span{
+    position: relative;
+    bottom: 15px;
+    color: #747579;
+    font-size: 14px;
+}
+button{
+    width: 100%;
+    color: #fff;
+    background-color: #d946ef;
+    padding: 5px;
+    font-size: 14px;
+    border: none;
+    border-radius: 5px;
+} */
